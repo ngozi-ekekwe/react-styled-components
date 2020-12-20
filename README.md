@@ -1,1 +1,1 @@
-# react-styled-components
+# React App Template + Styled Component
